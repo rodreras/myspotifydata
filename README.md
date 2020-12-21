@@ -4,6 +4,7 @@
 - I requested Spotify to download it and they sent me 3 days latter.
 
 - With this analysis I was able to see:
+
 `1.` My top artistis
 
 `2.` My top tracks
